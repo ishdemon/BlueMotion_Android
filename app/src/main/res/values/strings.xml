@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlueMotion</string>
+    <string name="action_settings">Settings</string>
+    <string name="List">List Devices</string>
+    <string name="titleString">Device should be paired</string>
+    <string name="disconnectButton">Disconnect</string>
+    <string name="startService">Start Service</string>
+    <string name="stopService">Stop Service</string>
+
+</resources>
